@@ -19,7 +19,7 @@ public class Splesh extends AppCompatActivity {
         Thread timer = new Thread() {
             public void run() {
                 try {
-                    Thread.sleep(5000);
+                    Thread.sleep(1200);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {

@@ -2,7 +2,7 @@ package com.project.internship.connection;
 
 
 public class Const {
-    public static final String BASE_URL = "http://192.168.0.108:8080/Internship/";
+    public static final String BASE_URL = "http://192.168.0.26:8080/Internship/";
     public static final String image =  BASE_URL +"uploads/";
     public static final String REGISTERURL = BASE_URL + "CompanyRegister";
     public static final String Student_login = BASE_URL + "StudentLogin";
